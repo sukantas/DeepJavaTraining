@@ -6,6 +6,6 @@ public abstract class  ICar {
 	
 	public abstract void getSpeed() ;
 	
-	public abstract void getSpeed1() ;
+	public abstract String getSpeed1() ;
 
 }

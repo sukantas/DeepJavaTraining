@@ -13,8 +13,8 @@ public class Swift extends ICar{
 	}
 
 	@Override
-	public void getSpeed1() {
-		// TODO Auto-generated method stub
+	public String getSpeed1() {
+		return "ABCD";
 		
 	}
 
