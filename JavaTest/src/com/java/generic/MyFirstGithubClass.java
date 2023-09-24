@@ -6,6 +6,7 @@ public class MyFirstGithubClass {
 		System.out.println("Hello GitHub");
 		System.out.println("I have learned Github!!");
 		System.out.println("I have learned Github!!");
+		System.out.println("I have learned Github2!!");
 	}
 
 }
